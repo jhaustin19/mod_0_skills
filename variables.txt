@@ -1,0 +1,10 @@
+food = 'guacamole'
+is_delicious = true
+food = 'yogurt'
+num2 = 4
+num7 = 8
+quotient = num7 / num2
+songs = ['kashmir', 'over the hills and far away', 'immigrant song']
+
+songs.shift()
+puts 'How many characters are there in the following: #{food}'
